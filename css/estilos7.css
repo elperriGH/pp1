@@ -1,0 +1,22 @@
+li{
+    float: left;
+    padding-left: 20px;
+    list-style: none;
+    background-color: gray;
+    padding: 5px;
+}
+
+ul{
+    border: black solid 2px;
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    padding-inline-start:0px;
+}
+
+a{
+    text-decoration: none;
+    font-family: sans-serif;
+    color: blue;
+}
