@@ -8,17 +8,12 @@
 </head>
 <body>
     <table>
-        <tr>
             <?php
                 echo "<td>x</td>";
                 for($x=1;$x<=10;$x++){
                 echo "<td>$x</td> ";
                 }
                 echo "<tr>";
-            ?>
-        </tr>
-        
-            <?php
                 for($x=1;$x<=10;$x++){
                     echo "<tr>";
                     echo "<td>$x</td>";
