@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="estilosphp6.css">
-    <title>Prueba</title>
+    <title>Ejercicio 6</title>
 </head>
 <body>
     <table>
